@@ -5,8 +5,8 @@ Questão desafio de algoritmos solucionada em C++.
 
 ## Pré-requisitos
 
-- [x] C++ (compilador como GCC ou Clang)
-- [x] CMake (para build)
+- C++ (compilador como GCC ou Clang)
+- CMake (para build)
 
 ## Como Compilar e Rodar
 
